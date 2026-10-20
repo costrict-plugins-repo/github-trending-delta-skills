@@ -1,0 +1,16 @@
+{
+  "name": "delta-skills",
+  "version": "0.0.1",
+  "description": "Claude Code plugin for inspecting and debugging Delta Lake tables — no Spark, no libraries, no setup.",
+  "author": {
+    "name": "chanukyapekala"
+  },
+  "repository": "https://github.com/chanukyapekala/delta-skills",
+  "skills": [
+    "skills/inspect-table",
+    "skills/show-history",
+    "skills/show-log",
+    "skills/time-travel",
+    "skills/validate"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "delta-skills",
+  "owner": {
+    "name": "chanukyapekala"
+  },
+  "plugins": [
+    {
+      "name": "delta-skills",
+      "source": "./",
+      "description": "Inspect and debug Delta Lake tables — no Spark, no libraries, no setup."
+    }
+  ]
+}
